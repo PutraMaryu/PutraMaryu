@@ -4,7 +4,7 @@
 
 ###
 
-<p align="left">I am a junior software engineer with a strong interest in **backend development, web architecture, and system design fundamentals**. I focus on building maintainable, well-structured applications by understanding how systems work beneath the framework layer.<br><br>Rather than relying on a single technology, I prioritize **core programming concepts, clean architecture, and problem-solving skills** that transfer across languages and frameworks.</p>
+I am a junior software engineer with a strong interest in **backend development, web architecture, and system design fundamentals**. I focus on building maintainable, well-structured applications by understanding how systems work beneath the framework layer.<br><br>Rather than relying on a single technology, I prioritize **core programming concepts, clean architecture, and problem-solving skills** that transfer across languages and frameworks.
 
 ###
 
